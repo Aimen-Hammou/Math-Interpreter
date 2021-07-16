@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1626192616 source:c:\users\hammou\desktop\random project\mathinterpreter\main.cpp
+	<iostream>
+	"visitor.hpp"
+
+1626191471 c:\users\hammou\desktop\random project\mathinterpreter\tokenizer.hpp
+	<vector>
+	<cctype>
+	<stdexcept>
+
+1626192082 c:\users\hammou\desktop\random project\mathinterpreter\visitor.hpp
+	"parser.hpp"
+
+1626192558 c:\users\hammou\desktop\random project\mathinterpreter\parser.hpp
+	"tokenizer.hpp"
+
